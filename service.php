@@ -153,7 +153,7 @@ include "header.php";
                          </div>
                     </div>
                     <p class="m-0">
-                         Fast Express Logistics has truly transformed the way we manage our shipping needs.
+                        Livon xpress logistics has truly transformed the way we manage our shipping needs.
                          Their reliable services and efficient solutions have saved us both time and resources.
                          From the moment we engaged with them, we knew we had found a partner we could trust.
                     </p>
@@ -170,7 +170,7 @@ include "header.php";
                          </div>
                     </div>
                     <p class="m-0">
-                         Exceptional service and seamless deliveries - that's what Fast Express Logistics delivers every time.
+                         Exceptional service and seamless deliveries - that's what Livon xpress logistics delivers every time.
                          Their attention to detail and commitment to meeting deadlines have consistently exceeded our expectations.
                          It's been a pleasure working with a team that values our business as much as we do.
                     </p>
@@ -187,7 +187,7 @@ include "header.php";
                          </div>
                     </div>
                     <p class="m-0">
-                         Fast Express Logistics is more than a logistics provider; they're a strategic partner. Their tailored solutions have optimized our supply chain,
+                         Livon xpress logistics is more than a logistics provider; they're a strategic partner. Their tailored solutions have optimized our supply chain,
                          enabling us to focus on our core business. The team's expertise and dedication have contributed to our success in more ways than one.
                     </p>
                </div>
@@ -203,7 +203,7 @@ include "header.php";
                          </div>
                     </div>
                     <p class="m-0">
-                         Reliability, professionalism, and speed - that's what Fast Express Logistics represents. Their end-to-end logistics support has been instrumental in our growth journey. As a customer-oriented company,
+                         Reliability, professionalism, and speed - that's what Livon xpress logistics represents. Their end-to-end logistics support has been instrumental in our growth journey. As a customer-oriented company,
                          they've consistently gone above and beyond to ensure our shipments arrive on time and in perfect condition.
                     </p>
                </div>

@@ -7,8 +7,8 @@ $dbName = "logisticsv1";
 
 // $dbHost = "localhost";
 // $dbUser = "webshipp_package";
-// $dbPass = "t7KdTG7@8xs7ABb";
-// $dbName = "webshipp_logistics	";
+// $dbPass = "3!*31iza4!ch";
+// $dbName = "livonxpr";
 
 
 $conn = mysqli_connect($dbHost, $dbUser, $dbPass, $dbName);
