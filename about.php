@@ -29,8 +29,8 @@ require('header.php');
                </div>
                <div class="col-lg-7">
                     <h6 class="text-primary text-uppercase font-weight-bold">About Us</h6>
-                    <h1 class="mb-4">Trusted & Livon Xpress Logistics Provider</h1>
-                    <p class="mb-4"> At Livon xpress logistics, we redefine the standards of modern logistics. With a relentless commitment to efficiency, reliability, and customer satisfaction, we have established ourselves as a leading name in the transportation and logistics industry.</p>
+                    <h1 class="mb-4">Trusted & <?= $companyName ?> Provider</h1>
+                    <p class="mb-4"> At <?= $companyName ?>, we redefine the standards of modern logistics. With a relentless commitment to efficiency, reliability, and customer satisfaction, we have established ourselves as a leading name in the transportation and logistics industry.</p>
                     <div class="d-flex align-items-center pt-2">
                          <button type="button" class="btn-play" data-toggle="modal" data-src="https://www.youtube.com/" data-target="#videoModal">
                               <span></span>

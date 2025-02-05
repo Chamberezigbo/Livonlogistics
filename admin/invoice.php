@@ -117,7 +117,7 @@ if ($result) {
                                    <div class="row">
                                         <div class="col-xs-12">
                                              <h1 class="m-0 display-5 text-uppercase text-primary">
-                                                  <i class="fa fa-plane  mr-2"></i>Livon Xpress Logistics
+                                                  <i class="fa fa-plane  mr-2"></i><?= $companyName ?>
                                              </h1>
                                         </div>
                                    </div>

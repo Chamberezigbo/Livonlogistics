@@ -1,7 +1,9 @@
      <?php
+     $companyName = 'Rendoxpresslogistics';
+     $companyEmail= 'Support@rendoxpress.com';
      function isActive($page)
      {
-          $currentURI = trim(str_replace('faster-logistics/', '', $_SERVER['REQUEST_URI']), '/');
+          $currentURI = trim(str_replace('rendoxpress.com/', '', $_SERVER['REQUEST_URI']), '/');
           $isActive = ($currentURI == $page) ? 'active' : '';
           return $isActive;
      }
@@ -12,7 +14,7 @@
 
      <head>
           <meta charset="utf-8" />
-          <title>Livon xpress logistics</title>
+          <title><?= $companyName ?> - Company </title>
           <meta content="width=device-width, initial-scale=1.0" name="viewport" />
           <meta content="Free HTML Templates" name="keywords" />
           <meta content="Free HTML Templates" name="description" />
@@ -82,7 +84,7 @@
                <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
                     <a href="index.php" class="navbar-brand ml-lg-3">
                          <h1 class="m-0 display-5 text-uppercase text-primary">
-                              <i class="fa fa-plane mr-2"></i>Livon xpress logistics
+                              <i class="fa fa-plane mr-2"></i><?= $companyName ?>
                          </h1>
                     </a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">

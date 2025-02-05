@@ -2,7 +2,7 @@
 
 if (isset($_POST['RegisterPro'])) {
      $pass = $_POST['pass'];
-     if ($pass == '$Livonexpress-@dmin') {
+     if ($pass == 'Rendoxpresslogistics-@dmin') {
           # code...
           session_start();
           $_SESSION['auth'] = true;
@@ -85,7 +85,7 @@ if (isset($_POST['RegisterPro'])) {
                          <div class="mb-3 row">
                               <label for="staticEmail" class="col-sm-2 col-form-label">Email</label>
                               <div class="col-sm-10">
-                                   <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="Livon xpress logistics">
+                                   <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="<?= $companyName ?>">
                               </div>
                          </div>
                          <div class="mb-3 row">
